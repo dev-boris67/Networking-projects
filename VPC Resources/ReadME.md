@@ -1,5 +1,7 @@
 # Launching VPC Resources
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/7.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-ec2)
 
 **Author:** Nchindo Boris  
