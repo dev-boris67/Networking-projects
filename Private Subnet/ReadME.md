@@ -1,5 +1,7 @@
 # Creating a Private Subnet
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/6.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-private)
 
 **Author:** Nchindo Boris  
