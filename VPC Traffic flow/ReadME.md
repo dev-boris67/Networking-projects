@@ -1,5 +1,7 @@
 # VPC Traffic Flow and Security
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/5.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-security)
 
 **Author:** Nchindo Boris  
